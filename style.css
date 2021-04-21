@@ -58,6 +58,7 @@ article.media-post > footer ul {
 }
 
 .activated-heart {
+  cursor: pointer;
   color: red;
 }
 
